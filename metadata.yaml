@@ -1,0 +1,29 @@
+_repo: Artificial-Limbs_55739
+_version: 0.0.1
+contributor:
+  translator: &id001
+    agent_name: Elmslie, Reginald Cheyne
+    gutenberg_agent_id: '48488'
+    url: http://www.gutenberg.org/2009/agents/48488
+creator:
+  authors:
+  - agent_name: Ducroquet, Charles
+    gutenberg_agent_id: '48487'
+    url: http://www.gutenberg.org/2009/agents/48487
+  - agent_name: Broca, Auguste
+    gutenberg_agent_id: '48486'
+    url: http://www.gutenberg.org/2009/agents/48486
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Artificial Limbs
+url: http://www.gutenberg.org/ebooks/55739
