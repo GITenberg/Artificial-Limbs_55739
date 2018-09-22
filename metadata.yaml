@@ -1,10 +1,13 @@
 _repo: Artificial-Limbs_55739
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator: &id001
     agent_name: Elmslie, Reginald Cheyne
     gutenberg_agent_id: '48488'
     url: http://www.gutenberg.org/2009/agents/48488
+covers:
+- cover_type: archival
+  image_path: 55739-h/images/i_cover.jpg
 creator:
   authors:
   - agent_name: Ducroquet, Charles
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48486
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55739#Artificial-Limbs
 gutenberg_issued: '2017-10-13'
 gutenberg_type: Text
 identifiers:
